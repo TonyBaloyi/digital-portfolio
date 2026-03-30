@@ -79,7 +79,7 @@ Relationship: Direct Supervisor
 
 **Aphiwe Mancotywa**  
 Store Manager  
-Company: Setamono Jepanese Homeware  
+Company: Setamono Jepanese Homewares 
 Relationship:Manager  
 * 071 526 911  
 
