@@ -1,6 +1,9 @@
-![GitHub 221254110 - TonyGitPage](221254110-TonyGitPage.png)
+## GitHub Student Account
 
+![GitHub Profile Screenshot](221254110-TonyGitProfile.png)
 
+**Username:** TonyBaloyi  
+**GitHub Profile:** [github.com/TonyBaloyi](https://github.com/TonyBaloyi)
 
 # Phatutshedzo Tony Baloyi  
 Application / Web Designer  
